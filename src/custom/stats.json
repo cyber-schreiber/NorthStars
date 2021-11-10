@@ -1,0 +1,74 @@
+{
+    "players": [
+        {
+            "number": 5,
+            "name": "Dan Michel",
+            "pos": "R",
+            "gp": 16,
+            "g": 40,
+            "a": 12,
+            "pts": 52,
+            "ppga": 3.3,
+            "pim": 10,
+            "ppg": 9,
+            "shg": 3,
+            "gwg": 0
+        },
+        {
+            "number": 4,
+            "name": "Brenden Welsh",
+            "pos": "R",
+            "gp": 12,
+            "g": 10,
+            "a": 34,
+            "pts": 44,
+            "ppga": 3.7,
+            "pim": 32,
+            "ppg": 1,
+            "shg": 1,
+            "gwg": 1
+        },
+        {
+            "number": 3,
+            "name": "Shawn Lantz",
+            "pos": "R",
+            "gp": 12,
+            "g": 8,
+            "a": 36,
+            "pts": 44,
+            "ppga": 3.7,
+            "pim": 12,
+            "ppg": 2,
+            "shg": 0,
+            "gwg": 0
+        },
+        {
+            "number": 45,
+            "name": "Dalano Banton",
+            "pos": "R",
+            "gp": 14,
+            "g": 15,
+            "a": 21,
+            "pts": 36,
+            "ppga": 3.4,
+            "pim": 22,
+            "ppg": 1,
+            "shg": 1,
+            "gwg": 2
+        },
+        {
+            "number": 17,
+            "name": "Isaac Bonga",
+            "pos": "R",
+            "gp": 16,
+            "g": 22,
+            "a": 30,
+            "pts": 52,
+            "ppga": 3.1,
+            "pim": 10,
+            "ppg": 1,
+            "shg": 3,
+            "gwg": 0
+        }
+    ]
+}
